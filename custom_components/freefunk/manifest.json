@@ -1,0 +1,11 @@
+{
+  "domain": "freefunk",
+  "name": "Freenet Funk",
+  "documentation": "https://github.com/fondberg/spotcast",
+    "requirements": [
+      "funkapi==0.1.5"
+    ],
+    "dependencies": [],
+    "codeowners": [
+  ]
+}
