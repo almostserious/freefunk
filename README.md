@@ -28,6 +28,13 @@ freefunk:
 
 ## EXAMPLE CONFIG FOR HOME ASSISTANT
 
+![Example Node Red](https://community-home-assistant-assets.s3.dualstack.us-west-2.amazonaws.com/original/3X/7/e/7ebc38b14b2f9b56f7a24cd3fb03783bf85a8ab3.png)
+
+![Example HA Lovelace](https://community-home-assistant-assets.s3.dualstack.us-west-2.amazonaws.com/original/3X/2/a/2a2572047229b7d2a64566b6f1bc17e2f4204520.png)
+
+
+
+
 ```
 1x input_boolean --> represents Pause.
 1x input_select --> to choose what Tariff i wish to book
