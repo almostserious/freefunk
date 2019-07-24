@@ -1,0 +1,8 @@
+pause:
+  description: Pause your current tariff. 
+update:
+  description: Update the current tariff status.
+book1gb:
+  description: Order the 1GB Tariff.
+bookunlimited:
+  description: Order the Unlimited Tariff.
