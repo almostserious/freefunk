@@ -26,9 +26,7 @@ freefunk:
   password: !secret freefunk_password
 ```
 
-## EXAMPLE
-
-I added:
+## EXAMPLE CONFIG FOR HOME ASSISTANT
 
 ```
 1x input_boolean --> represents Pause.
@@ -53,11 +51,6 @@ input_select:
     icon: mdi:sim
 ```
 
-How it looks in Lovelace:
-![image|494x238](upload://60QhmLxEDvfqsH5RP9vtQxNgkZq.png) 
-
-And how i automated it within NodeRed:
-![image|690x365](upload://i59qhpAQdyp6pPODQximxFgMBLt.png)  
 
 Nodered Code:
 
